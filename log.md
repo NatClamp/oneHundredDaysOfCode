@@ -23,7 +23,7 @@ I also started to work through the Applied Visual Design challenge section. Simi
     - Scale is useful if you have >1 element with a class and you want one item to be a different size. Just set id's and use scale(). Works with `:hover` - useful for buttons perhaps.
     - SkewX and skewY make funky shapes like parallelograms
     - `::before` and `::after` pseudo-elements have also stayed a mystery to me for too long - they must always have a `content:` property (usually used to add things like photo or text to an element). but when you use `::before` /`::after` to make shapes, you can assign the `content:` property an empty string.
-    - Animations! Another one I've only ever really copied/pasted. The animation properties control how the animation should behave and the `@keyframes` rule controls what happens during that animation.         
+- Animations! Another one I've only ever really copied/pasted. The animation properties control how the animation should behave and the `@keyframes` rule controls what happens during that animation.         
         - `animation-name` sets the name which can be used by the `@keyframes` later. 
         - `animation-duration` sets the length of time for the animation. 
         - If you need the property to remain after the animation duration has finished, you can use `animation-fill-mode: forwards`. 
