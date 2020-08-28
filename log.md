@@ -32,3 +32,16 @@ I also started to work through the Applied Visual Design challenge section. Simi
     - Bezier curves can be used with the cubic-bezier function - this uses a 1 by 1 coordinate system where x is the duration of the animation and y is the change in the animation. There are 4 main points, p0, p1, p2 and p3 (p0 and p3 are pr-set as the beginning [0,0] and end [1,1]). You anchor points in the form (x1, y1, x2, y2). A bouncing movement can be simulation by setting the y2 coordinate to >1.
 
 ***Thoughts***: Definitely not a challenging day, mostly covering old ground, but practicing stuff you already know can be good, I think. Plus, I did learn quite a bit more about CSS variables, transform properties, generating complex shapes and animations. The last few exercises sparked a bit of interest for creating some CSS art, so maybe I'll try that later in the challenge as I've never attempted it before.
+
+### Day 2: Friday 28th August, 2020
+
+***Today's Progress***: Completed the Applied Accessibility and responsive design section on freecodecamp. I knew quite a lot of this stuff beforehand, but it was useful to see the reasons behind why we use some of the accessibility features e.g.
+- To accessibly hide elements - using zero values for px sizes removes them from the document flow, so it's ignored by screen readers - that's why they have to be set to 1px width and height, plus shifted to the side with `position: absolute;`.
+- Using the `accesskey` property on anchor links to improve keyboard navigation.
+- Using the `tabindex="0` property on `div`, `span` and `p` elements as they don't automatically receive keyboard focus. A negative tabindex indicates that it's focusable but not reachable by keyboard. Assigning different numbers to `tabindex` means you can order them - but 1 comes first, and it cycles through, and those marked 0 are last.
+I also completed the Flexbox and CSS Grid sections, both of which I've used before and am comfortable with, but it's good to do a bit of revision and the completionist in me is getting good vibes from all these tickboxes...
+Made a start on one of the project exercises to try and get myself into the swing of actually building things.
+
+***Thoughts***: Another day of not too much exciting stuff, but lots of reminders. I'm actually a bit scared about starting to build something properly, but hopefully I'll pluck up the courage soon. At least I made a start on one of the FCC projects on codepen - it meets all of the user story requirements and passes the tests but I haven't done a lot of the styling yet. Will finish when I'm back at my laptop after the weekend.
+
+***Link to work***: https://codepen.io/ichbinclamp/pen/mdPmNxw 
