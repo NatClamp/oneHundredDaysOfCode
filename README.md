@@ -8,4 +8,4 @@ Start: Thursday 27th August 2020
 
 _Potential_ end: Saturday 5th December 2020
 
-If you haven't heard of 100 days of code, you can learn about it [here](https://www.100daysofcode.com/). Though I'm only going to be following their rules exactly to the tee because I also have a life. 
+If you haven't heard of 100 days of code, you can learn about it [here](https://www.100daysofcode.com/). Though I'm not going to be following their rules exactly to the tee because I also have a life, and for a less sassy reason - unexpected things happen which means I won't always be able to spend an hour every day at my laptop! 
