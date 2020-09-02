@@ -45,3 +45,11 @@ Made a start on one of the project exercises to try and get myself into the swin
 ***Thoughts***: Another day of not too much exciting stuff, but lots of reminders. I'm actually a bit scared about starting to build something properly, but hopefully I'll pluck up the courage soon. At least I made a start on one of the FCC projects on codepen - it meets all of the user story requirements and passes the tests but I haven't done a lot of the styling yet. Will finish when I'm back at my laptop after the weekend.
 
 ***Link to work***: https://codepen.io/ichbinclamp/pen/mdPmNxw 
+
+### Day 3: Wednesday 2nd September, 2020
+
+***Today's Progress***: Started the day by finishing off a bit of simple styling in the FCC tribute page exercise codepen. I then completed the form exercise too.
+
+***Thoughts***: Had an unexpected few days off due to car issues meaning I was away from my laptop for 4 days. Back to the grindstone now, however. Unsure whether doing these exercises is worth it but it does seem like it's taking me a little longer than I would like, so maybe it's good practice. The repeating image background with the linear-gradient still confuses me a little so maybe I'll return to that lesson, or look it up again elsewhere.
+
+***Link to work***: https://codepen.io/ichbinclamp/full/GRZMmPx 
