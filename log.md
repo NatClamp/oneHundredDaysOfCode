@@ -53,3 +53,11 @@ Made a start on one of the project exercises to try and get myself into the swin
 ***Thoughts***: Had an unexpected few days off due to car issues meaning I was away from my laptop for 4 days. Back to the grindstone now, however. Unsure whether doing these exercises is worth it but it does seem like it's taking me a little longer than I would like, so maybe it's good practice. The repeating image background with the linear-gradient still confuses me a little so maybe I'll return to that lesson, or look it up again elsewhere.
 
 ***Link to work***: https://codepen.io/ichbinclamp/full/GRZMmPx 
+
+### Day 4: Thursday 3rd September, 2020
+
+***Today's Progress***: Completed the FCC technical docs exercise.
+
+***Thoughts***: Thought this might be a good one to try as I've never made anything like this before with a fixed navbar. Was pretty simple and not that interesting to be fair...
+
+***Link to work***: https://codepen.io/ichbinclamp/full/NWNaQdr
