@@ -61,3 +61,9 @@ Made a start on one of the project exercises to try and get myself into the swin
 ***Thoughts***: Thought this might be a good one to try as I've never made anything like this before with a fixed navbar. Was pretty simple and not that interesting to be fair...
 
 ***Link to work***: https://codepen.io/ichbinclamp/full/NWNaQdr
+
+### Day 5: Friday 4th September, 2020
+
+***Today's Progress***: Today I worked on a short, simple algorithm for work to access and transform some bank account data. I also read a chapter of Don't Make Me Thinkby Steve Krug.
+
+***Thoughts***: Simple stuff. Code reviewed and off to merge into dev.
