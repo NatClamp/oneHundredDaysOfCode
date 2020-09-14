@@ -64,6 +64,12 @@ Made a start on one of the project exercises to try and get myself into the swin
 
 ### Day 5: Friday 4th September, 2020
 
-***Today's Progress***: Today I worked on a short, simple algorithm for work to access and transform some bank account data. I also read a chapter of Don't Make Me Thinkby Steve Krug.
+***Today's Progress***: Today I worked on a short, simple algorithm for work to access and transform some bank account data. I also read a chapter of Don't Make Me Think by Steve Krug.
 
 ***Thoughts***: Simple stuff. Code reviewed and off to merge into dev.
+
+### Day 6: Monday 13th September, 2020
+
+***Today's Progress***: Not much free time today so just a couple of chapters of Don't Make Me Think. Did some templating and set-up for translating content at work.
+
+***Thoughts***: Not an exciting one! Gotta start prioritising learning some new stuff I think. Maybe I'll get a chance to organise that tomorrow.
