@@ -68,8 +68,34 @@ Made a start on one of the project exercises to try and get myself into the swin
 
 ***Thoughts***: Simple stuff. Code reviewed and off to merge into dev.
 
-### Day 6: Monday 13th September, 2020
+### Day 6: Monday 14th September, 2020
 
-***Today's Progress***: Not much free time today so just a couple of chapters of Don't Make Me Think. Did some templating and set-up for translating content at work.
+**_Today's Progress_**: Not much free time today so just a couple of chapters of Don't Make Me Think. Did some templating and set-up for translating content at work.
 
-***Thoughts***: Not an exciting one! Gotta start prioritising learning some new stuff I think. Maybe I'll get a chance to organise that tomorrow.
+**_Thoughts_**: Not an exciting one! Gotta start prioritising learning some new stuff I think. Maybe I'll get a chance to organise that tomorrow.
+
+### Day 7: Tuesday 15th September, 2020
+
+**_Today's Progress_**: Did some work on content templating today ready for a new page for our service's accessibility statement.
+
+### Day 8: Wednesday 16th September, 2020
+
+**_Today's Progress_**: Read a chapter of Don't Make Me Think
+
+### Day 9: Thursday 17th September, 2020
+
+**_Today's Progress_**: Debugged an error in one of our apps at work where we use a dependency called govuk-frontend. It was out of date, and leading to missing underlining on some links in the footer - not great when you're deploying your accessibility statement...
+
+### Day 10: Friday 18th September, 2020
+
+**_Today's Progress_**: Worked on a couple of different tickets today at work. One was altering some SAML requests in a mocked service to do with previous addresses, the other adding an API key header to a call, and altering the linked mock service to throw a 401 error if the request is unauthorised.
+
+**_Thoughts_**: Felt pretty productive today!
+
+### Day 11: Saturday 19th September, 2020
+
+**_Today's Progress_**: Read a chapter of Don't Make Me Think
+
+### Day 12: Sunday 20th September, 2020
+
+**_Today's Progress_**: Did a bit of investigation around Shopify and deciding whether or not it'll be useful for a client I'm working with.
