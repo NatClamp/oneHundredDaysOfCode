@@ -99,3 +99,19 @@ Made a start on one of the project exercises to try and get myself into the swin
 ### Day 12: Sunday 20th September, 2020
 
 **_Today's Progress_**: Did a bit of investigation around Shopify and deciding whether or not it'll be useful for a client I'm working with.
+
+### Day 13: Monday 21st September, 2020
+
+**_Today's Progress_**: Not much to add here, bits and bobs for work on two repositories, a microservice and an API stub.
+
+### Day 14: Tuesday 22nd September, 2020
+
+**_Today's Progress_**: Had a call with a client(!!) about building a new site for them, involving a shop and blog section. Have drafted up some design ideas.
+
+### Day 15: Wednesday 23rd September, 2020
+
+**_Today's Progress_**: Got the keys to the Wordpress site today, which means I could have a look around! It's been absolutely ages since I've used a wordpress site - I think the last time was when I was the 'head of website' for a student society about 5 years ago. Now I need to figure out how I'm going to work on this project. My client says they're not tied to Wordpress - the site is a bit bare-bones at the minute - but they've got quite a history of blog posts which they'd like to keep. So I've been investigating different ways of dealing with this. I've thought about keeping WP and developing my own theme, or exporting the blog data and going with something like Shopify, or building a new static site entirely. I came across the idea of making WP headless and building a react frontend, which I quite like, but further investigation is required!
+
+### Day 16: Thursday 24th September, 2020
+
+**_Today's Progress_**: 
