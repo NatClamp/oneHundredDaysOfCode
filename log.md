@@ -114,4 +114,11 @@ Made a start on one of the project exercises to try and get myself into the swin
 
 ### Day 16: Thursday 24th September, 2020
 
-**_Today's Progress_**: 
+**_Today's Progress_**: Have spent a couple of hours or so researching the wordpress REST API('s! There's multiple...). Then I investigated how to figure out the domain situation if I build a frontend/deploy separately and then use the domain name for that application rather than the wordpress site. I also played around with [Frontity](https://docs.frontity.org/), an open-source framework which lets you build a React frontend for a WP site. I'm pretty impressed so far, it spins up super quickly and pulled in all of my clients blog posts straight away.
+
+***Thoughts***: Got to say, Wordpress documentation is not easy to navigate - I think it's to do with the difference between wordpress.org and wordpress.com, but there's a lot of conflicting information out there and if you aren't exactly certain what you're looking for, it's a bit of a minefield. Turns out there was an API set up before it was a part of WordPress core, which is primarily used for wp.org, but is enabled on wp.com. But when you're working with wp.com, the URL structure is different and sometimes the structure of the endpoint/queries differ. It makes it a bit more confusing that they're pretty similar. 
+For my own future reference, and maybe I might write some kind of blog about it later, what I've found out:
+The _most recent version_ of the REST API is v1.1 (at least this is what it says in the docs), has documentation on [https://developer.wordpress.com/docs/api/](https://developer.wordpress.com/docs/api/) and their base URL is `https://public-api.wordpress.com/rest/v1.1`. 
+However, you can also find a second API base URL - apparently this is a seperate REST API that shipped as a part of WP core v4.7. The base URL for this API is `https://public-api.wordpress.com/wp/v2/` and the documentation is at [https://developer.wordpress.org/rest-api/](https://developer.wordpress.org/rest-api/).
+Not just me that finds that confusing, right? Anyway, after fiddling around with Frontity, I found that it uses the baked-in version i.e. the second option above. So I guess I'm using that API!
+
