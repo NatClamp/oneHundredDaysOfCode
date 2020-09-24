@@ -114,7 +114,7 @@ Made a start on one of the project exercises to try and get myself into the swin
 
 ### Day 16: Thursday 24th September, 2020
 
-**_Today's Progress_**: Have spent a couple of hours or so researching the wordpress REST API('s! There's multiple...). Then I investigated how to figure out the domain situation if I build a frontend/deploy separately and then use the domain name for that application rather than the wordpress site. I also played around with [Frontity](https://docs.frontity.org/), an open-source framework which lets you build a React frontend for a WP site. I'm pretty impressed so far, it spins up super quickly and pulled in all of my clients blog posts straight away.
+**_Today's Progress_**: Have spent a couple of hours or so researching the wordpress REST API('s! There's multiple...). Then I investigated how to figure out the domain situation if I build a frontend/deploy separately and then use the domain name for that application rather than the wordpress site. I also played around with [Frontity](https://docs.frontity.org/), an open-source framework which lets you build a React frontend for a WP site. I'm pretty impressed so far, it spins up super quickly and pulled in all of my clients blog posts straight away. I've deployed what I have already using Vercel. Ready to read-up on how to make a theme, exciting stuff!
 
 ***Thoughts***: Got to say, Wordpress documentation is not easy to navigate - I think it's to do with the difference between wordpress.org and wordpress.com, but there's a lot of conflicting information out there and if you aren't exactly certain what you're looking for, it's a bit of a minefield. Turns out there was an API set up before it was a part of WordPress core, which is primarily used for wp.org, but is enabled on wp.com. But when you're working with wp.com, the URL structure is different and sometimes the structure of the endpoint/queries differ. It makes it a bit more confusing that they're pretty similar. 
 For my own future reference, and maybe I might write some kind of blog about it later, what I've found out:
@@ -123,4 +123,3 @@ However, you can also find a second API base URL - apparently this is a seperate
 Not just me that finds that confusing, right? Anyway, after fiddling around with Frontity, I found that it uses the baked-in version i.e. the second option above. So I guess I'm using that API!
 Things to figure out:
 I want to use my clients custom domain (managed by wordpress) for the deployed react app instead of the wordpress site (which will be headless, I think). So I need to stop using it for the wordpress site before I can set up the react site properly, as the wordpress site URL is used in the API calls.
-
