@@ -121,4 +121,6 @@ For my own future reference, and maybe I might write some kind of blog about it 
 The _most recent version_ of the REST API is v1.1 (at least this is what it says in the docs), has documentation on [https://developer.wordpress.com/docs/api/](https://developer.wordpress.com/docs/api/) and their base URL is `https://public-api.wordpress.com/rest/v1.1`. 
 However, you can also find a second API base URL - apparently this is a seperate REST API that shipped as a part of WP core v4.7. The base URL for this API is `https://public-api.wordpress.com/wp/v2/` and the documentation is at [https://developer.wordpress.org/rest-api/](https://developer.wordpress.org/rest-api/).
 Not just me that finds that confusing, right? Anyway, after fiddling around with Frontity, I found that it uses the baked-in version i.e. the second option above. So I guess I'm using that API!
+Things to figure out:
+I want to use my clients custom domain (managed by wordpress) for the deployed react app instead of the wordpress site (which will be headless, I think). So I need to stop using it for the wordpress site before I can set up the react site properly, as the wordpress site URL is used in the API calls.
 
