@@ -123,3 +123,9 @@ However, you can also find a second API base URL - apparently this is a seperate
 Not just me that finds that confusing, right? Anyway, after fiddling around with Frontity, I found that it uses the baked-in version i.e. the second option above. So I guess I'm using that API!
 Things to figure out:
 I want to use my clients custom domain (managed by wordpress) for the deployed react app instead of the wordpress site (which will be headless, I think). So I need to stop using it for the wordpress site before I can set up the react site properly, as the wordpress site URL is used in the API calls.
+
+### Day 17: Friday 25th September, 2020
+
+***Today's Progress***: Took a look at GitHub this morning and realised I had around 20 notifications about security issues with various repositories, so had to spend about an hour tidying those up. That'll teach me to not deal with them immediately... Spent the rest of the day learning more about Frontity and how to make a custom theme. 
+
+***Thoughts***: Ending the day feeling quite frustrated due to lack of understanding. Setting up a new theme to begin with was fairly straightforward and the docs are great, but the configuration is a little confusing and it's not too familiar to the React apps I've built in the past because there's extra packages that don't have huge amounts of documentation. Basically, I had a bit of a struggly day and now I'm grumpy.
