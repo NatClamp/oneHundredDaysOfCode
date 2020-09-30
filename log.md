@@ -129,3 +129,27 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 ***Today's Progress***: Took a look at GitHub this morning and realised I had around 20 notifications about security issues with various repositories, so had to spend about an hour tidying those up. That'll teach me to not deal with them immediately... Spent the rest of the day learning more about Frontity and how to make a custom theme. 
 
 ***Thoughts***: Ending the day feeling quite frustrated due to lack of understanding. Setting up a new theme to begin with was fairly straightforward and the docs are great, but the configuration is a little confusing and it's not too familiar to the React apps I've built in the past because there's extra packages that don't have huge amounts of documentation. Basically, I had a bit of a struggly day and now I'm grumpy.
+
+### Day 18: Saturday 26th September, 2020
+
+***Today's Progress***: Read through more of the documentation to try and get my head around the issues I encountered yesterday - namely whether I could create custom pages in Wordpress.com (rather than wordpress.org) so that my client could update his own shop through the wordpress CMS. Turns out it's not possible without converting the site to wp.org. The other was figuring out the routing without having a custom page.
+
+***Thoughts***: A lot of the issues I've been having are due to the fact the wordpress site is on wordpress.com rather than .org - I never knew they were two separate entities before this project, and that there were so many differences between them. I'll be sure to remember this for future projects and maybe consider transferring any .com sites to .org.
+
+### Day 19: Monday 28th September, 2020
+
+***Today's Progress***: Spent today trying to muscle the Frontity project into something more familiar. Styling should be straightforward - I've only used CSS-in-JS frameworks a little before but it's easy enough to get used to. I think the differences in how you manage state within a Frontity project will take a bit more getting used to, but we'll get to that when we need to. Started building out the header and footer.
+
+***Thoughts***: I'm trying to power through my frustrations - I think this is mainly why I don't tend to have a lot of side projects - when I get stuck on something, I get super frustrated and either want to give up, or can't give up until it's sorted. Neither is incredibly healthy, I guess, but I have to figure out a way through it...
+
+### Day 20: Tuesday 29th September, 2020
+
+***Today's Progress***: Today I built out the subscription form in the footer for the mailchimp newsletter that my client has. I decided to go for a package that does it out of the box for now, but I know it's not a long term solution. It's not like a form is particularly difficult to manage but I need to figure out how to properly manage state in Frontity first I think. I'm marking it down as a technical debt, and will try and rebuild the form from scratch when the rest of the site is up and running.
+
+***Thoughts***: Probably not the smartest move, the package isn't regularly updated. Hopefully I'll get a chance to come back to this soon and rebuild from scratch.
+
+### Day 21: Wednesday 30th September, 2020
+
+***Today's Progress***: 
+
+***Thoughts***: 
