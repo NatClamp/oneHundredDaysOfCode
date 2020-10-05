@@ -150,6 +150,18 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 
 ### Day 21: Wednesday 30th September, 2020
 
-***Today's Progress***: 
+***Today's Progress***: Worked on tidying up the mobile/tablet responsiveness today. Took me a while to get it right, and involved a lot of tweaking breakpoints to make the footer neater especially. Also added the logo into the header and hero on the main page, which makes it look a lot better!
 
-***Thoughts***: 
+***Thoughts***: I find this process incredibly frustrating, especially when the site looks different when you've deployed it as it does when you're using inspect in the browser when running locally.
+
+### Day 22: Thursday 1st October, 2020
+
+***Today's Progress***: Today I worked on trying to get the Shopify CDK working on the site, and lets say it wasn't particularly successful. I've looked at a lot of examples and it doesn't seem too difficult - you just have to install the package, initiate the shopify client and then you should be able to use the functions. But despite initiating the client and it being available in my components, it doesn't seem to be able to access the functions - I keep getting the error `fetch is not defined at Client.fetcher`. Can't seem to work out what I'm doing wrong.
+
+***Thoughts***: ARGHHH
+
+### Day 23: Friday 2nd October, 2020
+
+***Today's Progress***: Carried on trying to debug my issue from yesterday. No progress yet, urgh! Spent the rest of the day preparing for an interview.
+
+***Thoughts***: Need to figure out where I can get some help with the shopify problem.
