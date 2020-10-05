@@ -165,3 +165,9 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 ***Today's Progress***: Carried on trying to debug my issue from yesterday. No progress yet, urgh! Spent the rest of the day preparing for an interview.
 
 ***Thoughts***: Need to figure out where I can get some help with the shopify problem.
+
+### Day 24: Monday 5th October, 2020
+
+***Today's Progress***: I fixed the issue!! I don't feel so bad about it because apparently it's not explained very well in the documentation of the Shopify SDK. Apparently, you have to pass in some fetch implentation when you initiate the client. I found this out by re-reading a github issue I'd found earlier but actually paid attention to this time [here](https://github.com/Shopify/js-buy-sdk/issues/458).
+
+***Thoughts***: Well that wasted some time. Never mind I guess, this kind of thing happens all the time.
