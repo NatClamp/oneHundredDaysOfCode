@@ -171,3 +171,32 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 ***Today's Progress***: I fixed the issue!! I don't feel so bad about it because apparently it's not explained very well in the documentation of the Shopify SDK. Apparently, you have to pass in some fetch implentation when you initiate the client. I found this out by re-reading a github issue I'd found earlier but actually paid attention to this time [here](https://github.com/Shopify/js-buy-sdk/issues/458).
 
 ***Thoughts***: Well that wasted some time. Never mind I guess, this kind of thing happens all the time.
+
+### Day 25: Tuesday 6th October, 2020
+
+***Today's Progress***: Carried on working on the ecommerce site. Nothing much exciting happened, just fiddled around with where I was calling the Shopify API and how the responses were being rendered.
+
+### Day 26: Wednesday 7th October, 2020
+
+***Today's Progress***: Ended up back at square one - I've decided that Frontity isn't the way to go with this project. Whilst it makes the blog aspect much easier by sorting out all the wordpress gubbins, it makes everything else so much harder, especially the shop, which is meant to be the main aspect of the site. I'll take this as a learning point. Going to just use straight react.
+
+***Thoughts***: I'm frustrated. Very, very frustrated.
+
+### Day 27: Thursday 8th October, 2020
+
+***Today's Progress***: Started building the site in plain old react today, which I'm much more used to. I think I'll try and get the shop sorted out first this time, and everything else will hopefully fall in place later. Perhaps I can even deploy it in stages, with the wordpress blog integration coming later. I focussed on getting the routing sorted to begin with.
+
+
+### Day 28: Friday 9th October, 2020
+
+***Today's Progress***: Shopify is now integrated into the site. I've used a boilerplate with a cart etc for ease because I've not done this sort of this before, though I've been through it all and made sure I understand how it works. It uses React context which I haven't used previously but seems pretty cool, I'll be using it again in future.
+
+### Day 29: Monday 12th October, 2020
+
+***Today's Progress***: Started building out the rest of the site, starting with the header and navigation. Think I've sorted it all now. I decided to use a UI framework called atomize, which I wouldn't normally turn to in projects, but it's speeded things up a bit which is nice. Also started building out the footer again. Managed to salvage some of this from the last iteration, though I'm building the mailchimp subscription input myself this time instead of using an out-of-date package. That's tomorrows job.
+
+<!-- ### Day 30: Tuesday 13th October, 2020
+
+***Today's Progress***: 
+
+***Thoughts***:  -->
