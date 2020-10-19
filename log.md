@@ -193,10 +193,33 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 
 ### Day 29: Monday 12th October, 2020
 
-***Today's Progress***: Started building out the rest of the site, starting with the header and navigation. Think I've sorted it all now. I decided to use a UI framework called atomize, which I wouldn't normally turn to in projects, but it's speeded things up a bit which is nice. Also started building out the footer again. Managed to salvage some of this from the last iteration, though I'm building the mailchimp subscription input myself this time instead of using an out-of-date package. That's tomorrows job.
+***Today's Progress***: Started building out the rest of the site, starting with the header and navigation. Think I've sorted it all now. I decided to use a UI framework called atomize, which I wouldn't normally turn to in projects, but it's speeded things up a bit which is nice. Also started building out the footer again. Managed to salvage some of this from the last iteration, though I'm building the mailchimp subscription input myself this time instead of using an out-of-date package. That's tomorrows job. I made the pages responsive and also added mobile navigation.
 
-<!-- ### Day 30: Tuesday 13th October, 2020
+### Day 30: Tuesday 13th October, 2020
+
+***Today's Progress***: Today I added things to the homepage - a hero image including nav (still need to sort out how quickly this loads, because it's sloooow at the minute), a 'feature' section which will showcase my clients latest piece of work, and also added the mailchimp form to the footer.
+
+***Thoughts***: Seemed like a productive day!
+
+### Day 31: Wednesday 14th October, 2020
+
+***Today's Progress***: I added bits to the cart functionality today, including subtotals and things like that. I also tested that the shopify functionality was actually working, and it does seem to be! I then finished off the homepage by adding a bio section, and fiddled around with styling.
+
+### Day 32: Thursday 15th October, 2020
+
+***Today's Progress***: Not such a productive day today, though I did start to build out the 'hire me' section of the website, which features an intro, some past work and also a contact form. I didn't realie contact forms (ones which email you everything) were so complication. I researched for a good while on the topic and couldn't figure it out today. Tomorrow's job.
+
+### Day 33: Friday 16th October, 2020
+
+***Today's Progress***: Figured out the whole contact form situation. I settled for just creating a different email address that would send the email with the details, and tested it out with postman. To do this I needed to create a separate node api, which I call within my React app, and that sends the email using nodemailer.
+
+### Day 34: Monday 19th October, 2020
+
+***Today's Progress***: I finished off the 'hire me' page today and then set to figuring out how I was going to manage the two separate streams of products that my client has. Started creating a js data file with the data for one of the types. I figure I could have written a scraper to do it, but knowing me that would probably take longer than just creating it myself...
+
+<!-- ### Day 35: 
 
 ***Today's Progress***: 
 
 ***Thoughts***:  -->
+
