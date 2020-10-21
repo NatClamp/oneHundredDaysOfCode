@@ -217,9 +217,11 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 
 ***Today's Progress***: I finished off the 'hire me' page today and then set to figuring out how I was going to manage the two separate streams of products that my client has. Started creating a js data file with the data for one of the types. I figure I could have written a scraper to do it, but knowing me that would probably take longer than just creating it myself...
 
-<!-- ### Day 35: 
+### Day 35: Tuesday 20th October, 2020
 
-***Today's Progress***: 
+***Today's Progress***: Finished entering all of the data into the file, and spent most of the rest of the day building pagination. Doesn't look too bad currently! Started looking into a search bar that'll enable the user to search through the titles.
 
-***Thoughts***:  -->
+### Day 36: Wednesday 21st October, 2020
+
+***Today's Progress***: Got a bit flustered with the search functionality today. The actual code for searching was pretty straightforward but I hit the bump of needing to re-render pagination etc. and how to make that happen when I need it to. Think I'm there though.
 
