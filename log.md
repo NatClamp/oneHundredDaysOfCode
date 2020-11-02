@@ -225,3 +225,27 @@ I want to use my clients custom domain (managed by wordpress) for the deployed r
 
 ***Today's Progress***: Got a bit flustered with the search functionality today. The actual code for searching was pretty straightforward but I hit the bump of needing to re-render pagination etc. and how to make that happen when I need it to. Think I'm there though.
 
+### Day 37: Thursday 22nd October, 2020
+***Today's Progress***: Some UI stuff today on the hiring page, including notifications on the email form and the previous work section, just tidying up. It's pretty much at MVP stage now - I'm going to show to the client!
+
+### Day 38: Friday 23rd October, 2020
+***Today's Progress***: Client was happy with the site, yay! Though they do want the blog integrated, so I'm starting work on that now. Hopefully all the work I did earlier researching the wordpress.com api will come in useful and mean this won't take as long as I think it will... I've added the overall blog page and the individual post page today already.
+
+### Day 39: Monday 26th October, 2020
+***Today's Progress***: The client also asked if they could swap out a static image on the homepage for a carousel of several images. I'm going to use a package for this because honestly I don't think it's a style that's going to be that popular in the long-run, so there's not that much of a push for me to be able to code that from scratch. I've also started creating a filtering functionality for the blog posts so users can see posts from whatever category they want. Also built in pagination to the blog page.
+
+### Day 40: Tuesday 27th October, 2020
+***Today's Progress***: Added lots of error handling today, and fully integrated the blog into the live website. Looking pretty snazzy! 
+
+### Day 41: Wednesday 28th October, 2020
+***Today's Progress***: I think... it's finished! I did a lot of tidying up today and making sure everything works as it should. Handing it over later, hopefully the client likes everything.
+
+### Day 42: Thursday 29th October, 2020
+***Today's Progress***: Finally have a bit of info for a project at work, so did some work today finding commonalities in page designs ready to build out UI templates.
+
+### Day 43: Friday 30th October, 2020
+***Today's Progress***: Today I built out a UI repository for the new project at work ready for a new sprint.
+
+### Day 44: Monday 2nd November, 2020
+***Today's Progress***: Refamiliarising myself with Forgerock, which we use at work to build authentication trees. I'll need to interact with it from the frontend for this new project, so need to understand it's intricacies (though I hate it, utterly and completely.)
+
